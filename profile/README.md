@@ -1,19 +1,6 @@
 ## Hi there 👋
 <div align="center">
   <img src="/logo.png" alt="IICSC Logo" style="width:200px; height:200px; animation: spin 5s linear infinite; border-radius: 10px; transition: transform 0.3s;">
-  <style>
-    @keyframes spin {
-      from {
-        transform: rotate(0deg);
-      }
-      to {
-        transform: rotate(360deg);
-      }
-    }
-    img:hover {
-      transform: scale(1.1);
-    }
-  </style>
 </div>
 # IICSC
 IICSC (International Internet of Intelligent Computing Systems Conference) is a GitHub organization. Welcome to the official website of the IICSC organization. We are dedicated to promoting the development of computer science and providing the most excellent resources and support for academic research, engineering development, and social services.
