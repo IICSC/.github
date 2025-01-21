@@ -1,9 +1,20 @@
 ## Hi there 👋
-
 <p align="center">
-  <img src="/logo.png" alt="IICSC Logo"></img>
+  <img src="/logo.png" alt="IICSC Logo" style="width:200px; height:200px; animation: spin 5s linear infinite; border-radius: 10px; transition: transform 0.3s;">
+  <style>
+    @keyframes spin {
+      from {
+        transform: rotate(0deg);
+      }
+      to {
+        transform: rotate(360deg);
+      }
+    }
+    img:hover {
+      transform: scale(1.1);
+    }
+  </style>
 </p>
-
 # IICSC
 IICSC (International Internet of Intelligent Computing Systems Conference) is a GitHub organization. Welcome to the official website of the IICSC organization. We are dedicated to promoting the development of computer science and providing the most excellent resources and support for academic research, engineering development, and social services.
 
@@ -41,3 +52,4 @@ IICSC (International Internet of Intelligent Computing Systems Conference) is a 
 
 ## Community
 [![Bilibili](https://img.shields.io/badge/Bilibili-00aeec?logo=bilibili&logoColor=white&label=Bilibili)](https://space.bilibili.com/323611141)  [![Douyin](https://img.shields.io/badge/Douyin-E1251B?logo=douyin&logoColor=white&label=Douyin&color=E1251B&labelColor=white)](https://www.douyin.com/user/MS4wLjABAAAALEnmF2GGAYyG241RkQlxVYPIUaqX7uW7qYCUXVyyV_g)  [![Kuaishou](https://img.shields.io/badge/Kuaishou-FF3C00?logo=kuaishou&logoColor=white&label=Kuaishou)](https://www.kuaishou.com/profile/3xtmy9qb83tc94k)  [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&label=GitHub)](https://github.com/WuXiaoMuer)  
+
