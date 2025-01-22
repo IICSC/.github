@@ -11,7 +11,7 @@ Checkout our official website: https://iicsc.damon233.top/
 
 We usually develop with the languages below...
 
-![EPL](https://img.shields.io/badge/EPL-placeholder?style=flat-square&label=%E6%98%93&labelColor=white&color=red)
+![EPL](https://img.shields.io/badge/EPL-placeholder?style=flat-square&label=%E6%98%93&labelColor=FF0000&color=FF0000)
 ![C++](https://img.shields.io/badge/C++-placeholder?style=flat-square&logo=c%2B%2B&logoColor=00599C&labelColor=white&color=00599C)
 ![C](https://img.shields.io/badge/C-placeholder?style=flat-square&logo=c&logoColor=A8B9CC&labelColor=white&color=A8B9CC)
 ![Python](https://img.shields.io/badge/Python-placeholder?style=flat-square&logo=python&logoColor=3776AB&labelColor=white&color=3776AB)
