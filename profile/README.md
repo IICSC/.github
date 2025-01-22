@@ -3,7 +3,7 @@
 </div>
 
 # IICSC
-**IICSC** _(**I**nternational **I**nternet of Intelligent **C**omputing **S**ystems **C**onference)_ is a organization created by @WuXiaoMuer. We are dedicated to promoting the development of computer science and providing resources and support for developing.
+**IICSC** _(**I**nternet **I**ntegrated **C**omputer **S**erver **C**ommunication)_ is a organization created by @WuXiaoMuer. We are dedicated to promoting the development of computer science and providing resources and support for developing.
 
 Checkout our official website: https://iicsc.damon233.top/
 
